@@ -758,8 +758,8 @@ function App() {
             <div className="welcome-section">
               <h2 className="welcome-title">Got an AI scenario?</h2>
               <p className="welcome-subtitle">
-                Describe your Anthropic model usage scenario and I'll check it
-                against the engineering guidance.
+                Describe what you want to do with AI and I'll check it against
+                the latest engineering guidance.
               </p>
             </div>
 
